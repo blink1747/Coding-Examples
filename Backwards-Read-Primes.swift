@@ -1,4 +1,4 @@
-// Backwards Read Primes
+// Backwards Read Primes on Swift
 // Source and Description : https://www.codewars.com/kata/5539fecef69c483c5a000015
 
 import UIKit
